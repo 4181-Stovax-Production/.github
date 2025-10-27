@@ -29,6 +29,8 @@ All repositories are private and maintained by authorised members of the Stovax 
 
 We follow [GitHub's Markdown guidelines](https://docs.github.com/en/github/writing-on-github) to ensure all content is clear, consistent, and professional.
 
+A "cheat sheet" gist is available [here](https://gist.github.com/Myndex/5140d6fe98519bb15c503c490e713233)
+
 ---
 
 > _“Quality means doing it right when no one is looking.” – Henry Ford_
